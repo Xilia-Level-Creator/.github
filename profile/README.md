@@ -12,7 +12,7 @@ a Compiler, which converts XLA files into actual levels:
 This is a very general roadmap:
 
 - [ ] XLA File Format Specification
-  - [ ] Base spec
+  - [x] Base spec
   - [ ] Describing built-in presets/transforms
   - [ ] Docs for creating custom presets/transforms with Lua
 - [ ] Examples of levels, expressed in XLA format *(list may be changed)*
